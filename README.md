@@ -19,4 +19,4 @@
 - Deactivating a virtual env (ending current session)
     >> ``` source deactivate```
 - Deleting a virtual env:
-    >> ```conda remove -n yourenvname -all```
+    >> ```conda remove -n your-env-name -all```
